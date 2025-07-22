@@ -26,7 +26,7 @@ Learn more at: [www.afternoonlabs.com](https://www.afternoonlabs.com)
 
 These instructions will guide you on how to replicate this keyboard design on your local machine for development, testing, or personal use.
 
-For instructions for assembly of a Breeze keyboard once you have a PCB, follow [the official build guide](https://www.afternoonlabs.com/breeze/build-guide).
+For instructions for assembly of a Breeze keyboard once you have a PCB, follow [the official build guide](https://www.afternoonlabs.com/blog/breeze-build-guide).
 
 ### Prerequisites
 
